@@ -23,4 +23,4 @@ In Fine Tuning the Convolutional Layers are not freezed and the objects we added
 
 ![Fine_Tunning](FaceRecog_Transfer_learning/fine_tuning_keras_network_surgery.png)
 
-###BY PRIYANSH GUPTA 
+### MODEL CREATED BY PRIYANSH GUPTA 
