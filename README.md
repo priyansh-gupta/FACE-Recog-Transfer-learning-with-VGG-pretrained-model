@@ -1,4 +1,4 @@
-# FaceRecog_VGG
+# FaceRecog-TransferLearning_VGG
 
 
 ![VGG](FaceRecog_Transfer_learning/Screenshots/Fig-A1-The-standard-VGG-16-network-architecture-as-proposed-in-32-Note-that-only.png)
@@ -22,3 +22,5 @@ It's take lot of Resources to train a model so, we use already trained weight to
 In Fine Tuning the Convolutional Layers are not freezed and the objects we added to the pretrained model is again trained and some features are extracted based on the weight alredy the model have without starting random .
 
 ![Fine_Tunning](FaceRecog_Transfer_learning/fine_tuning_keras_network_surgery.png)
+
+###BY PRIYANSH GUPTA 
